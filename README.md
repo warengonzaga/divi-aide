@@ -1,4 +1,4 @@
-# Divi Child Theme Development Kit [![Developed by Waren Gonzaga](https://img.shields.io/badge/Developed%20by-Waren%20Gonzaga-blue.svg?longCache=true&style=for-the-badge)](https://facebook.com/warengonzagaofficial)
+# Divi Ade [![Developed by Waren Gonzaga](https://img.shields.io/badge/Developed%20by-Waren%20Gonzaga-blue.svg?longCache=true&style=for-the-badge)](https://facebook.com/warengonzagaofficial)
 
 [![Github Release](https://img.shields.io/github/release/warengonzaga/divi-child-theme-devkit.svg?style=for-the-badge)](https://github.com/warengonzaga/divi-child-theme-devkit/releases) [![Github Star](https://img.shields.io/github/stars/warengonzaga/divi-child-theme-devkit.svg.svg?style=for-the-badge)](https://github.com/warengonzaga/divi-child-theme-devkit.svg) [![Github Fork](https://img.shields.io/github/forks/warengonzaga/divi-child-theme-devkit.svg.svg?style=for-the-badge)](https://github.com/warengonzaga/divi-child-theme-devkit.svg) [![License](https://img.shields.io/github/license/warengonzaga/divi-child-theme-devkit.svg?style=for-the-badge)](https://github.com/warengonzaga/divi-child-theme-devkit.svg) [![Powered By](https://img.shields.io/badge/Powered%20By-GulpJS-orange.svg?style=for-the-badge)](https://gulpjs.com)
 
@@ -20,7 +20,7 @@ If you're facing a problem in using Divi Child Theme Development kit please let 
 
 Wanna see other projects I made? Join today!
 
-[![Community](https://discordapp.com/api/guilds/659684980137656340/widget.png?style=banner2)](https://bmc.xyz/l/wgofficialds)
+[![Community](https://discordapp.com/api/guilds/659684980137656340/widget.png?style=banner3)](https://wrngnz.ga/discord)
 
 ## Donate or Support
 
